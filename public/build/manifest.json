@@ -1,0 +1,12 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-c04d340f.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/alpine.js": {
+    "file": "assets/alpine-dc9f05dd.js",
+    "src": "resources/js/alpine.js",
+    "isEntry": true
+  }
+}
