@@ -1,4 +1,4 @@
-<x-card title="Test">
+<x-card title="Cookie Jar">
     <x-slot:actions>
         <input
             id="jar-upload"
